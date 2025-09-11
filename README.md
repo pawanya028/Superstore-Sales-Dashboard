@@ -82,4 +82,5 @@ The objective was to **convert raw transactional data into actionable business i
 
 ## 👤 Author
 👨‍💻 Created by **Pawan**  
-🔗 [LinkedIn Profile]()
+📧 Email:[pawanya28@gmail.com]  
+- 🔗 [LinkedIn Profile]() 
