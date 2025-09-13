@@ -66,8 +66,8 @@ The objective was to **convert raw transactional data into actionable business i
 ---
 
 ## 📌 Files in this Repository
-- `Superstore_Dashboard.pbix` → Full interactive dashboard.  
-- `Superstore.csv` → Raw dataset.  
+- `Superstore_Sales_Performance_Dashboard.pbix` → Full interactive dashboard.  
+- `Superstore_sales_data.csv` → Raw dataset.  
 - `images/` → Dashboard screenshots for quick viewing.  
 
 ---
